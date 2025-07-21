@@ -16,4 +16,4 @@ export const metadata = {
 }
 
 
-export default page
+export default page 
