@@ -1,0 +1,140 @@
+{
+  "liveMatches": [
+    {
+      "id": "live-1",
+      "league": "Premier League",
+      "sport": "football",
+      "date": "2024-03-15T19:00:00Z",
+      "time": "19:00",
+      "status": "live",
+      "venue": "Emirates Stadium",
+      "homeTeam": {
+        "name": "Arsenal",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/5/53/Arsenal_FC.svg",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Liverpool",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/0/0c/Liverpool_FC.svg",
+        "score": 1
+      },
+      "highlights": [
+        { "player": "Saka", "time": "45'", "event": "goal" },
+        { "player": "Salah", "time": "60'", "event": "goal" },
+        { "player": "Martinelli", "time": "85'", "event": "goal" }
+      ]
+    }
+  ],
+  "news": [
+    {
+      "id": "news-1",
+      "title": "Arsenal defeat Liverpool in thrilling Premier League clash",
+      "summary": "Arsenal moved within two points of Premier League leaders Liverpool with a dramatic 3-1 victory at the Emirates Stadium.",
+      "content": "Martin Odegaard's second-half strike proved decisive as Arsenal beat Liverpool 3-1 in a pulsating Premier League encounter at the Emirates Stadium...",
+      "category": "football",
+      "date": "2024-03-15T21:45:00Z",
+      "author": "James Smith",
+      "image": "https://i.guim.co.uk/img/media/2422ee1878021736c27ac4b120fbbff69d2decc2/807_0_6882_5504/master/6882.jpg?width=465&dpr=1&s=none&crop=none",
+      "tags": ["Premier League", "Arsenal", "Liverpool"]
+    },
+    {
+      "id": "news-2",
+      "title": "LeBron James leads Lakers to stunning victory over Warriors",
+      "summary": "LeBron scored 38 points as the Lakers defeated Golden State in a tightly contested game.",
+      "content": "In a remarkable showdown, LeBron James powered the LA Lakers past the Warriors with 38 points, 10 rebounds, and 7 assists...",
+      "category": "basketball",
+      "date": "2024-03-16T04:30:00Z",
+      "author": "Dana White",
+      "image": "https://static.toiimg.com/thumb/imgsize-23456,msid-118022406,width-600,resizemode-4/118022406.jpg",
+      "tags": ["NBA", "Lakers", "LeBron James"]
+    },
+    {
+      "id": "news-3",
+      "title": "Serena Williams announces retirement from professional tennis",
+      "summary": "Serena Williams revealed in an emotional interview that she will retire after the US Open.",
+      "content": "One of the greatest in tennis history, Serena Williams will step away from the sport after a legendary career...",
+      "category": "tennis",
+      "date": "2024-03-14T11:00:00Z",
+      "author": "Alex Johnson",
+      "image": "https://www.sportico.com/wp-content/uploads/2022/08/GettyImages-1405695746-e1660056792994.jpg?w=1024",
+      "tags": ["Tennis", "US Open", "Serena Williams"]
+    },
+    {
+      "id": "news-4",
+      "title": "Kansas City Chiefs win Super Bowl LVIII",
+      "summary": "Patrick Mahomes led the Chiefs to a 31-27 comeback win in a thrilling Super Bowl.",
+      "content": "The Kansas City Chiefs have secured another Super Bowl title with a dramatic victory against the 49ers...",
+      "category": "american football",
+      "date": "2024-02-12T22:00:00Z",
+      "author": "Michael Carter",
+      "image": "https://images.pexels.com/photos/3991878/pexels-photo-3991878.jpeg",
+      "tags": ["NFL", "Chiefs", "Super Bowl"]
+    },
+    {
+      "id": "news-5",
+      "title": "Manchester City advances to Champions League semifinals",
+      "summary": "City overcame Bayern Munich 4-1 on aggregate to reach another UCL semifinal.",
+      "content": "Pep Guardiola’s side continued their dominance in Europe with a convincing performance over two legs...",
+      "category": "football",
+      "date": "2024-04-10T20:15:00Z",
+      "author": "Liam Turner",
+      "image": "https://images.unsplash.com/photo-1609336209511-4fd062ec7f5c",
+      "tags": ["Champions League", "Man City", "Bayern"]
+    },
+    {
+      "id": "news-6",
+      "title": "Djokovic wins record-breaking 24th Grand Slam title",
+      "summary": "Novak Djokovic defeated Carlos Alcaraz in a five-set classic at Roland Garros.",
+      "content": "Djokovic made history yet again by clinching his 24th Grand Slam, solidifying his GOAT status...",
+      "category": "tennis",
+      "date": "2024-06-11T18:00:00Z",
+      "author": "Emily Hayes",
+      "image": "https://images.unsplash.com/photo-1616458763109-6c8798d72cc2",
+      "tags": ["Roland Garros", "Djokovic", "Grand Slam"]
+    },
+    {
+      "id": "news-7",
+      "title": "New York Knicks make the playoffs after 10-year drought",
+      "summary": "The Knicks will return to the NBA playoffs for the first time in a decade after finishing strong.",
+      "content": "Fueled by a young core and disciplined defense, the Knicks locked up a playoff berth...",
+      "category": "basketball",
+      "date": "2024-04-01T15:00:00Z",
+      "author": "Chris Nolan",
+      "image": "https://images.unsplash.com/photo-1592503253906-7ff6e3f69a3b",
+      "tags": ["NBA", "Knicks", "Playoffs"]
+    },
+    {
+      "id": "news-8",
+      "title": "Tom Brady inducted into Hall of Fame",
+      "summary": "NFL legend Tom Brady was officially inducted into the Pro Football Hall of Fame this weekend.",
+      "content": "After a career spanning over two decades, Tom Brady receives the highest honor in professional football...",
+      "category": "american football",
+      "date": "2024-07-01T14:00:00Z",
+      "author": "Mark Daniels",
+      "image": "https://images.pexels.com/photos/16182049/pexels-photo-16182049.jpeg",
+      "tags": ["Tom Brady", "Hall of Fame", "NFL"]
+    },
+    {
+      "id": "news-9",
+      "title": "Women’s football sees record attendance at World Cup",
+      "summary": "The 2024 Women's World Cup final set a new global record for attendance in women’s football.",
+      "content": "With over 91,000 fans in attendance, this event marks a new chapter in the sport's growth...",
+      "category": "football",
+      "date": "2024-08-20T19:30:00Z",
+      "author": "Samantha Lee",
+      "image": "https://images.pexels.com/photos/274506/pexels-photo-274506.jpeg",
+      "tags": ["Women’s World Cup", "FIFA", "Record"]
+    },
+    {
+      "id": "news-10",
+      "title": "Rafael Nadal confirms return at Indian Wells",
+      "summary": "Nadal’s return after injury has tennis fans excited for the 2024 Indian Wells tournament.",
+      "content": "After months of recovery, Rafael Nadal is ready to compete again, starting with the Masters 1000 event in California...",
+      "category": "tennis",
+      "date": "2024-03-20T10:45:00Z",
+      "author": "Rachel Park",
+      "image": "https://images.pexels.com/photos/4215110/pexels-photo-4215110.jpeg",
+      "tags": ["Nadal", "Indian Wells", "ATP Tour"]
+    }
+  ]
+}

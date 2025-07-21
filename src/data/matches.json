@@ -1,0 +1,133 @@
+{
+  "liveMatches": [
+    {
+      "id": "live-1",
+      "image": "Premier League",
+      "sport": "football",
+      "date": "2024-03-15T19:00:00Z",
+      "time": "19:00",
+      "status": "live",
+      "venue": "Emirates Stadium",
+      "homeTeam": {
+        "name": "Arsenal",
+        "logo": "/arsenal.png",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Liverpool",
+        "logo": "/liverpool.png",
+        "score": 1
+      },
+      "highlights": [
+        { "player": "Saka", "time": "45'", "event": "goal" },
+        { "player": "Salah", "time": "60'", "event": "goal" },
+        { "player": "Martinelli", "time": "85'", "event": "goal" }
+      ]
+    },
+    {
+      "id": "live-2",
+      "league": "NBA",
+      "sport": "basketball",
+      "date": "2024-03-15T20:30:00Z",
+      "time": "20:30",
+      "status": "live",
+      "venue": "Staples Center",
+      "homeTeam": {
+        "name": "Lakers",
+        "logo": "/lakers.png",
+        "score": 110
+      },
+      "awayTeam": {
+        "name": "Celtics",
+        "logo": "/celtics.png",
+        "score": 105
+      },
+      "highlights": [
+        { "player": "LeBron", "time": "Q1", "event": "score" },
+        { "player": "Tatum", "time": "Q2", "event": "score" }
+      ]
+    }
+  ],
+  "upcomingMatches": [
+    {
+      "id": "upcoming-1",
+      "league": "La Liga",
+      "sport": "football",
+      "date": "2024-03-16T15:00:00Z",
+      "time": "15:00",
+      "status": "upcoming",
+      "venue": "Camp Nou",
+      "homeTeam": {
+        "name": "Barcelona",
+        "logo": "/barcelona.png"
+      },
+      "awayTeam": {
+        "name": "Real Madrid",
+        "logo": "/realmadrid.png"
+      }
+    },
+    {
+      "id": "upcoming-2",
+      "league": "Champions League",
+      "sport": "football",
+      "date": "2024-03-20T20:00:00Z",
+      "time": "20:00",
+      "status": "upcoming",
+      "venue": "Allianz Arena",
+      "homeTeam": {
+        "name": "Bayern Munich",
+        "logo": "/bayern.png"
+      },
+      "awayTeam": {
+        "name": "PSG",
+        "logo": "/psg.png"
+      }
+    }
+  ],
+  "recentMatches": [
+    {
+      "id": "recent-1",
+      "league": "Serie A",
+      "sport": "football",
+      "date": "2024-03-14T21:45:00Z",
+      "time": "21:45",
+      "status": "finished",
+      "venue": "San Siro",
+      "homeTeam": {
+        "name": "Milan",
+        "logo": "/milan.png",
+        "score": 1
+      },
+      "awayTeam": {
+        "name": "Inter",
+        "logo": "/inter.png",
+        "score": 2
+      },
+      "highlights": [
+        { "player": "Lautaro", "time": "25'", "event": "goal" },
+        { "player": "Giroud", "time": "70'", "event": "goal" },
+        { "player": "Lautaro", "time": "80'", "event": "goal" }
+      ]
+    },
+    {
+      "id": "recent-2",
+      "league": "NFL",
+      "sport": "american football",
+      "date": "2024-02-11T18:30:00Z",
+      "time": "18:30",
+      "status": "finished",
+      "venue": "Allegiant Stadium",
+      "homeTeam": {
+        "name": "Chiefs",
+        "logo": "/chiefs.png",
+        "score": 25
+      },
+      "awayTeam": {
+        "name": "49ers",
+        "logo": "/49ers.png",
+        "score": 22
+      },
+      "highlights": [{ "player": "Mahomes", "time": "Q4", "event": "touchdown" }]
+    }
+  ]
+}
